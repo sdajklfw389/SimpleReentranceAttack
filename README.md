@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Sample Vulnerable Smart Contract And Corresponding Reentrance Attack
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project demonstrates a basic vulnerable Smart Contract. It comes with a vulnerable sample contract, a reentrance attack contract and test for the attack contract, and a Hardhat Ignition module that deploys that contract.
 
 Try running some of the following tasks:
 
